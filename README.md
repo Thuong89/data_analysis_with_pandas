@@ -17,3 +17,9 @@ and so.on.
 the data should have at least 10,000 data points .
 
 Use GitHub for the group_work.
+
+---
+# url for dataset
+-  Finland statistics: http://pxnet2.stat.fi/PXWeb/pxweb/en/Maahanmuuttajat_ja_kotoutuminen/Maahanmuuttajat_ja_kotoutuminen__Maahanmuuttajat_ja_kotoutuminen/maakoto_pxt_11vu.px/table/tableViewLayout1/
+- Global Financial Inclusion: https://microdata.worldbank.org/index.php/catalog/2418
+- Bike sharing dataset: https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
