@@ -1,4 +1,5 @@
 # data_analysis_with_pandas
+<<<<<<< HEAD
 For this task a team should have a 3 jupyter notebook file containing:
 - A data analysis
 - tidying the data
@@ -23,3 +24,8 @@ Use GitHub for the group_work.
 -  Finland statistics: http://pxnet2.stat.fi/PXWeb/pxweb/en/Maahanmuuttajat_ja_kotoutuminen/Maahanmuuttajat_ja_kotoutuminen__Maahanmuuttajat_ja_kotoutuminen/maakoto_pxt_11vu.px/table/tableViewLayout1/
 - Global Financial Inclusion: https://microdata.worldbank.org/index.php/catalog/2418
 - Bike sharing dataset: https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
+=======
+
+- Open file Findex.ipynb for data analysis
+- Other files stored as references
+>>>>>>> ed02c9906962ac0e419c273559433ef93c217673
